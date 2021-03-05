@@ -1,0 +1,95 @@
+{
+    "start": "21:00:56",
+    "end": "23:15:06",
+    "deaths": [
+        {
+            "time": "21:16:11",
+            "killed": "YaBoiRanger",
+            "msg": "YaBoiRanger tried to swim in lava"
+        },
+        {
+            "time": "21:27:48",
+            "killed": "_Prozan_",
+            "killer": "Cave",
+            "msg": "_Prozan_ was slain by Cave Spider"
+        },
+        {
+            "time": "21:53:43",
+            "killed": "LordsGame",
+            "killer": "YZEROgame",
+            "msg": "LordsGame was slain by YZEROgame"
+        },
+        {
+            "time": "22:18:38",
+            "killed": "26es26es",
+            "killer": "Novaload_00",
+            "msg": "26es26es tried to swim in lava to escape Novaload_00"
+        },
+        {
+            "time": "22:19:05",
+            "killed": "Novaload_00",
+            "msg": "Novaload_00 burned to death"
+        },
+        {
+            "time": "22:19:14",
+            "killed": "Gabreala",
+            "killer": "WAFFLE_PENGUIN",
+            "msg": "Gabreala was slain by WAFFLE_PENGUIN"
+        },
+        {
+            "time": "22:35:36",
+            "killed": "M161",
+            "killer": "YZEROgame",
+            "msg": "M161 was slain by YZEROgame"
+        },
+        {
+            "time": "22:43:17",
+            "killed": "WAFFLE_PENGUIN",
+            "killer": "Toul_",
+            "item": "[https://www.twitch.tv/toullll]",
+            "msg": "WAFFLE_PENGUIN was slain by Toul_ using [https://www.twitch.tv/toullll]"
+        },
+        {
+            "time": "22:45:31",
+            "killed": "YZEROgame",
+            "killer": "123maarten123",
+            "msg": "YZEROgame was shot by 123maarten123"
+        },
+        {
+            "time": "22:48:09",
+            "killed": "Rohirrimjaw991",
+            "killer": "AgroGaming",
+            "msg": "Rohirrimjaw991 was slain by AgroGaming"
+        },
+        {
+            "time": "22:54:02",
+            "killed": "BlindJertic",
+            "killer": "AgroGaming",
+            "msg": "BlindJertic was shot by AgroGaming"
+        },
+        {
+            "time": "22:57:50",
+            "killed": "123maarten123",
+            "killer": "Creeper",
+            "msg": "123maarten123 was blown up by Creeper"
+        },
+        {
+            "time": "23:02:09",
+            "killed": "Evtema3",
+            "killer": "Toul_",
+            "item": "[https://www.twitch.tv/toullll]",
+            "msg": "Evtema3 was slain by Toul_ using [https://www.twitch.tv/toullll]"
+        },
+        {
+            "time": "23:14:23",
+            "killed": "ahAviation",
+            "killer": "AgroGaming",
+            "msg": "ahAviation was slain by AgroGaming"
+        },
+        {
+            "time": "23:15:02",
+            "killed": "_smurfii_",
+            "msg": "_smurfii_ burned to death"
+        }
+    ]
+}

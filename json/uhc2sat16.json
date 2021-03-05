@@ -1,0 +1,99 @@
+{
+    "start": "17:22:18",
+    "end": "19:03:16",
+    "deaths": [
+        {
+            "time": "17:28:33",
+            "killed": "b3arman",
+            "killer": "Vindicator",
+            "msg": "b3arman was slain by Vindicator"
+        },
+        {
+            "time": "18:04:29",
+            "killed": "AstroFunk1",
+            "killer": "Creeper",
+            "msg": "AstroFunk1 was blown up by Creeper"
+        },
+        {
+            "time": "18:10:50",
+            "killed": "Trial_Name",
+            "killer": "CAG2",
+            "msg": "Trial_Name was slain by CAG2"
+        },
+        {
+            "time": "18:21:46",
+            "killed": "TheCoffeeMug",
+            "killer": "Dire_Promise",
+            "msg": "TheCoffeeMug was slain by Dire_Promise"
+        },
+        {
+            "time": "18:26:02",
+            "killed": "TurkeyButler",
+            "msg": "TurkeyButler burned to death"
+        },
+        {
+            "time": "18:35:12",
+            "killed": "Dire_Promise",
+            "msg": "Dire_Promise hit the ground too hard"
+        },
+        {
+            "time": "18:39:12",
+            "killed": "TheAI",
+            "killer": "LogicBugs",
+            "msg": "TheAI was slain by LogicBugs"
+        },
+        {
+            "time": "18:39:51",
+            "killed": "MrCreepie101c",
+            "msg": "MrCreepie101c fell from a high place"
+        },
+        {
+            "time": "18:40:57",
+            "killed": "LogicBugs",
+            "killer": "Malino05",
+            "msg": "LogicBugs was slain by Malino05"
+        },
+        {
+            "time": "18:41:11",
+            "killed": "Malino05",
+            "killer": "Skeleton",
+            "msg": "Malino05 was shot by Skeleton"
+        },
+        {
+            "time": "18:42:01",
+            "killed": "Magic_JT",
+            "killer": "Hraponssi",
+            "msg": "Magic_JT was slain by Hraponssi"
+        },
+        {
+            "time": "18:43:42",
+            "killed": "Parkins1000",
+            "killer": "mexiscool",
+            "msg": "Parkins1000 was slain by mexiscool"
+        },
+        {
+            "time": "18:52:56",
+            "killed": "Deviss",
+            "killer": "mexiscool",
+            "msg": "Deviss was slain by mexiscool"
+        },
+        {
+            "time": "18:54:46",
+            "killed": "Johann2000",
+            "msg": "Johann2000 tried to swim in lava"
+        },
+        {
+            "time": "19:02:57",
+            "killed": "lemon28",
+            "killer": "DownloadPizza",
+            "msg": "lemon28 was slain by DownloadPizza"
+        },
+        {
+            "time": "19:03:11",
+            "killed": "mexiscool",
+            "killer": "Hraponssi",
+            "item": "[twitch.tv/Hraponssi]",
+            "msg": "mexiscool was slain by Hraponssi using [twitch.tv/Hraponssi]"
+        }
+    ]
+}

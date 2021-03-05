@@ -1,0 +1,16 @@
+[17:28:33] [main/INFO]: [CHAT] b3arman was slain by Vindicator
+[18:04:29] [main/INFO]: [CHAT] AstroFunk1 was blown up by Creeper
+[18:10:50] [main/INFO]: [CHAT] Trial_Name was slain by CAG2
+[18:21:46] [main/INFO]: [CHAT] TheCoffeeMug was slain by Dire_Promise
+[18:26:02] [main/INFO]: [CHAT] TurkeyButler burned to death
+[18:35:12] [main/INFO]: [CHAT] Dire_Promise hit the ground too hard
+[18:39:12] [main/INFO]: [CHAT] TheAI was slain by LogicBugs
+[18:39:51] [main/INFO]: [CHAT] MrCreepie101c fell from a high place
+[18:40:57] [main/INFO]: [CHAT] LogicBugs was slain by Malino05
+[18:41:11] [main/INFO]: [CHAT] Malino05 was shot by Skeleton
+[18:42:01] [main/INFO]: [CHAT] Magic_JT was slain by Hraponssi
+[18:43:42] [main/INFO]: [CHAT] Parkins1000 was slain by mexiscool
+[18:52:56] [main/INFO]: [CHAT] Deviss was slain by mexiscool
+[18:54:46] [main/INFO]: [CHAT] Johann2000 tried to swim in lava
+[19:02:57] [main/INFO]: [CHAT] lemon28 was slain by DownloadPizza
+[19:03:11] [main/INFO]: [CHAT] mexiscool was slain by Hraponssi using [twitch.tv/Hraponssi]

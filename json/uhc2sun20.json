@@ -1,0 +1,95 @@
+{
+    "start": "21:00:12",
+    "end": "22:45:25",
+    "deaths": [
+        {
+            "time": "21:03:49",
+            "killed": "TitanicFog",
+            "msg": "TitanicFog burned to death"
+        },
+        {
+            "time": "21:23:22",
+            "killed": "Azones11",
+            "killer": "Zombie",
+            "msg": "Azones11 was slain by Zombie"
+        },
+        {
+            "time": "21:27:51",
+            "killed": "DrRandy82",
+            "killer": "Creeper",
+            "msg": "DrRandy82 was blown up by Creeper"
+        },
+        {
+            "time": "21:30:36",
+            "killed": "BUFFPUP",
+            "msg": "BUFFPUP tried to swim in lava"
+        },
+        {
+            "time": "21:41:57",
+            "killed": "Xyoto_prime",
+            "msg": "Xyoto_prime tried to swim in lava"
+        },
+        {
+            "time": "21:42:05",
+            "killed": "EvDoc",
+            "msg": "EvDoc burned to death"
+        },
+        {
+            "time": "21:51:50",
+            "killed": "MLP07",
+            "killer": "Kapa150",
+            "msg": "MLP07 was slain by Kapa150"
+        },
+        {
+            "time": "22:06:01",
+            "killed": "LP0320",
+            "killer": "Xeoran",
+            "msg": "LP0320 was slain by Xeoran"
+        },
+        {
+            "time": "22:06:04",
+            "killed": "Uncle_Seamus",
+            "killer": "Jelly_exe",
+            "msg": "Uncle_Seamus was slain by Jelly_exe"
+        },
+        {
+            "time": "22:08:31",
+            "killed": "Cisticc",
+            "msg": "Cisticc tried to swim in lava"
+        },
+        {
+            "time": "22:23:41",
+            "killed": "Kapa150",
+            "killer": "Mason5mith",
+            "msg": "Kapa150 was slain by Mason5mith"
+        },
+        {
+            "time": "22:23:44",
+            "killed": "TheMysticalMarv",
+            "killer": "Xeoran",
+            "msg": "TheMysticalMarv was shot by Xeoran"
+        },
+        {
+            "time": "22:42:58",
+            "killed": "TraksAG",
+            "msg": "TraksAG tried to swim in lava"
+        },
+        {
+            "time": "22:44:46",
+            "killed": "__K1",
+            "msg": "__K1 burned to death"
+        },
+        {
+            "time": "22:44:52",
+            "killed": "_topaz",
+            "killer": "Jelly_exe",
+            "msg": "_topaz was slain by Jelly_exe"
+        },
+        {
+            "time": "22:45:20",
+            "killed": "JohnStar128",
+            "killer": "Xeoran",
+            "msg": "JohnStar128 was slain by Xeoran"
+        }
+    ]
+}

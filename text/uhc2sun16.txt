@@ -1,0 +1,15 @@
+[17:17:44] [Render thread/INFO]: [CHAT] CatAndComparator was slain by Zombie
+[17:29:42] [Render thread/INFO]: [CHAT] 4321boom4321 suffocated in a wall
+[17:31:39] [Render thread/INFO]: [CHAT] JustAnAverageBoi was slain by Silverfish
+[17:35:45] [Render thread/INFO]: [CHAT] ANY_LAST_WERDZ17 was shot by Skeleton
+[17:35:46] [Render thread/INFO]: [CHAT] OMGDucky was shot by Skeleton
+[17:40:34] [Render thread/INFO]: [CHAT] LegendaryKunai was slain by Zombie
+[17:55:07] [Render thread/INFO]: [CHAT] Louuuise was slain by Cave Spider
+[18:09:40] [Render thread/INFO]: [CHAT] Nooticus was slain by Zombie
+[18:28:44] [Render thread/INFO]: [CHAT] Janzyfanzy was slain by SuperSaiyan18
+[18:28:45] [Render thread/INFO]: [CHAT] Carl510 was slain by builder993
+[18:38:18] [Render thread/INFO]: [CHAT] Casper0N3R tried to swim in lava
+[18:58:36] [Render thread/INFO]: [CHAT] Road_to_Hell9 was burnt to a crisp whilst fighting iRobo
+[18:59:44] [Render thread/INFO]: [CHAT] SuperSaiyan18 was shot by iRobo
+[18:59:53] [Render thread/INFO]: [CHAT] builder993 was slain by Leiti
+[18:59:57] [Render thread/INFO]: [CHAT] rainbowlucas was slain by Leiti

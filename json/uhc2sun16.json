@@ -1,0 +1,94 @@
+{
+    "start": "17:14:20",
+    "end": "19:00:02",
+    "deaths": [
+        {
+            "time": "17:17:44",
+            "killed": "CatAndComparator",
+            "killer": "Zombie",
+            "msg": "CatAndComparator was slain by Zombie"
+        },
+        {
+            "time": "17:29:42",
+            "killed": "4321boom4321",
+            "msg": "4321boom4321 suffocated in a wall"
+        },
+        {
+            "time": "17:31:39",
+            "killed": "JustAnAverageBoi",
+            "killer": "Silverfish",
+            "msg": "JustAnAverageBoi was slain by Silverfish"
+        },
+        {
+            "time": "17:35:45",
+            "killed": "ANY_LAST_WERDZ17",
+            "killer": "Skeleton",
+            "msg": "ANY_LAST_WERDZ17 was shot by Skeleton"
+        },
+        {
+            "time": "17:35:46",
+            "killed": "OMGDucky",
+            "killer": "Skeleton",
+            "msg": "OMGDucky was shot by Skeleton"
+        },
+        {
+            "time": "17:40:34",
+            "killed": "LegendaryKunai",
+            "killer": "Zombie",
+            "msg": "LegendaryKunai was slain by Zombie"
+        },
+        {
+            "time": "17:55:07",
+            "killed": "Louuuise",
+            "killer": "Cave",
+            "msg": "Louuuise was slain by Cave Spider"
+        },
+        {
+            "time": "18:09:40",
+            "killed": "Nooticus",
+            "killer": "Zombie",
+            "msg": "Nooticus was slain by Zombie"
+        },
+        {
+            "time": "18:28:44",
+            "killed": "Janzyfanzy",
+            "killer": "SuperSaiyan18",
+            "msg": "Janzyfanzy was slain by SuperSaiyan18"
+        },
+        {
+            "time": "18:28:45",
+            "killed": "Carl510",
+            "killer": "builder993",
+            "msg": "Carl510 was slain by builder993"
+        },
+        {
+            "time": "18:38:18",
+            "killed": "Casper0N3R",
+            "msg": "Casper0N3R tried to swim in lava"
+        },
+        {
+            "time": "18:58:36",
+            "killed": "Road_to_Hell9",
+            "killer": "iRobo",
+            "msg": "Road_to_Hell9 was burnt to a crisp whilst fighting iRobo"
+        },
+        {
+            "time": "18:59:44",
+            "killed": "SuperSaiyan18",
+            "killer": "iRobo",
+            "msg": "SuperSaiyan18 was shot by iRobo"
+        },
+        {
+            "time": "18:59:53",
+            "killed": "builder993",
+            "killer": "Leiti",
+            "msg": "builder993 was slain by Leiti"
+        },
+        {
+            "time": "18:59:57",
+            "killed": "rainbowlucas",
+            "killer": "Leiti",
+            "msg": "rainbowlucas was slain by Leiti"
+        }
+    ]
+}
