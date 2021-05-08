@@ -1,0 +1,17 @@
+KILLED was shot by KILLER using ITEM
+KILLED was pummeled by KILLER using ITEM
+KILLED was blown up by KILLER using ITEM
+KILLED went off with a bang due to a firework fired from ITEM by KILLER
+KILLED was killed by KILLER using ITEM
+KILLED was slain by KILLER using ITEM
+KILLED was fireballed by KILLER using ITEM
+KILLED was killed by ITEM trying to hurt KILLER
+KILLED was impaled by KILLER with ITEM
+KILLED was doomed to fall by KILLER using ITEM
+KILLED fell too far and was finished by KILLER using ITEM
+KILLED was shot by KILLER using ITEM
+KILLED was fireballed by KILLER using ITEM
+KILLED was killed by KILLER using ITEM
+KILLED was pummeled by KILLER using ITEM
+KILLED was doomed to fall by KILLER using ITEM
+KILLED fell too far and was finished by KILLER using ITEM

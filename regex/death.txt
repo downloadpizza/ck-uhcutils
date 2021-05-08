@@ -1,0 +1,62 @@
+KILLED was pricked to death
+KILLED drowned
+KILLED experienced kinetic energy
+KILLED blew up
+KILLED was killed by [Intentional Game Design]
+KILLED hit the ground too hard
+KILLED fell from a high place
+KILLED fell off a ladder
+KILLED fell off some vines
+KILLED fell off some weeping vines
+KILLED fell off some twisting vines
+KILLED fell off scaffolding
+KILLED fell while climbing
+KILLED was squashed by a falling anvil
+KILLED was squashed by a falling block
+KILLED was skewered by a falling stalactite
+KILLED went up in flames
+KILLED burned to death
+KILLED went off with a bang
+KILLED tried to swim in lava
+KILLED was struck by lightning
+KILLED discovered the floor was lava
+KILLED was killed by magic
+KILLED froze to death
+KILLED was stung to death
+KILLED starved to death
+KILLED suffocated in a wall
+KILLED was squished too much
+KILLED was poked to death by a sweet berry bush
+KILLED fell out of the world
+KILLED withered away
+KILLED was roasted in dragon breath
+KILLED died
+KILLED was doomed to fall
+KILLED was killed by even more magic
+KILLED was too soft for this world
+KILLED was slain by Arrow
+KILLED was pricked to death
+KILLED drowned
+KILLED experienced kinetic energy
+KILLED blew up
+KILLED hit the ground too hard
+KILLED fell from a high place
+KILLED was squashed by a falling anvil
+KILLED was squashed by a falling block
+KILLED went up in flames
+KILLED burned to death
+KILLED went off with a bang
+KILLED tried to swim in lava
+KILLED was struck by lightning
+KILLED discovered floor was lava
+KILLED was killed by magic
+KILLED was slain by Small Fireball
+KILLED starved to death
+KILLED suffocated in a wall
+KILLED fell out of the world
+KILLED withered away
+KILLED died
+KILLED fell off a ladder
+KILLED fell off some vines
+KILLED fell out of the water
+KILLED was doomed to fall
